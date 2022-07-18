@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/show-your-sympathy", {data:[{}],fetch:[],mutations:void 0});
